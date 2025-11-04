@@ -1,0 +1,10 @@
+body{font-family:Arial,Helvetica,sans-serif;background:#f6f8fa;padding:40px}
+.card{max-width:420px;margin:20px auto;padding:20px;background:#fff;border-radius:8px;box-shadow:0 2px 8px rgba(0,0,0,0.08)}
+label{display:block;margin-top:10px}
+input,select,button{width:100%;padding:8px;margin-top:6px;border:1px solid #ddd;border-radius:4px}
+button{background:#2b7cff;color:#fff;border:none;cursor:pointer;padding:10px}
+.error{background:#ffe6e6;padding:8px;color:#900;border-radius:4px}
+.table{width:100%;border-collapse:collapse;margin-top:10px}
+.table th,.table td{border:1px solid #eee;padding:8px;text-align:left}
+.nav{display:flex;gap:10px;margin-bottom:12px}
+.small{font-size:0.9em;color:#666}
